@@ -1,0 +1,56 @@
+{
+  "contacts":[
+    {
+      "Id": 1,
+      "fist_name": "avital",
+      "second_name": "rubin",
+      "email": "avitalrubin1998@gmail.com",
+      "phone_number": "0504545610",
+      "address": "26 hertzog st. bnei braq",
+      "username": "avitalr",
+      "nickname": "avit",
+      "user_profile_img": "",
+      "gender": "f",
+      "age": "24"
+    },
+    {
+      "Id": 2,
+      "fist_name": "avi",
+      "second_name": "cohen",
+      "email": "avi@gmail.com",
+      "phone_number": "0587276882",
+      "address": "7 hevron st. bnei braq",
+      "username": "avic",
+      "nickname": "avrumi",
+      "user_profile_img": "",
+      "gender": "m",
+      "age": "30"
+    },
+    {
+      "Id": 3,
+      "fist_name": "kobi",
+      "second_name": "levi",
+      "email": "kobi",
+      "phone_number": "0548430190",
+      "address": "103 menachem begin st. tel aviv",
+      "username": "kobil",
+      "nickname": "kobi",
+      "user_profile_img": "",
+      "gender": "m",
+      "age": "18"
+    },
+    {
+      "Id": 4,
+      "fist_name": "yael",
+      "second_name": "weiss",
+      "email": "yael@gmail.com",
+      "phone_number": "0526831737",
+      "address": "3 avishai st. ramat gan",
+      "username": "yaelw",
+      "nickname": "yaeli",
+      "user_profile_img": "",
+      "gender": "f",
+      "age": "28"
+    }
+  ]
+}
